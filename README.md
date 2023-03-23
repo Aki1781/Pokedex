@@ -46,5 +46,9 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Final Results
 
-![alt text](https://github.com/[aki1781]/[pokedex]/blob/[main]/pokedexpic.jpg?raw=true)
+<img width="1440" alt="pokedexpic" src="https://user-images.githubusercontent.com/71416386/227333411-fb379f51-f0ca-49a7-a7b4-76ea12e8aeac.png">
+
+
+<img width="1440" alt="detailpage" src="https://user-images.githubusercontent.com/71416386/227333446-392d45b0-ea68-459e-8d20-232ab39b4915.png">
+
 
